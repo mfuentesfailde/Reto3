@@ -1,8 +1,8 @@
 
 {
   "manifest_version": 3,
-  "name": "Reto_3",
-  "version": "2.0",
+  "name": "Reloj",
+  "version": "1.0",
   "description": "Extensión para calcular el tiempo que pasa desde un instante y otro. Desde start hata finish",
   "homepage_url": "https://mfuentesfailde.github.io/aplicaciones/Reloj/",
   "icons": {
